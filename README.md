@@ -10,4 +10,4 @@ windows tasks needs (optional) directory for the starting of scripts.
 
 App and configuration files wiil be copied per powershell script to userenv\localappdata\.bin (hidden) directory
 Use the config.xml for time intervals
-If required to add a new phrases edit the phrases.txt file, you can also edit the phrases file for your language.
+If required to add a new phrases edit the phrases.txt file, at the moment in german but fro example in english use phrases_en file.
