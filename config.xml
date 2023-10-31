@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+	<Interval>2</Interval>
+	<PhrasesFilePath>phrases.txt</PhrasesFilePath>
+</Settings>
