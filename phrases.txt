@@ -2,12 +2,13 @@ Du guckst schon die Uhrzeit, oder?
 Es ist Zeit den Computer herunterzufahren.
 So, den PC bitte ausschalten.
 Ist was?
-Ich werde Dich fast jede Stunde erinnern.
+Ich werde Dich jede Stunde erinnern.
 Die Zeit ist schon längst vorbei.
 Was ist mit der Pause?
 Es ist Zeit eine Pause zu machen.
 Wie lange willst Du noch spielen?
 So, es ist soweit. 
+Alles klar?
 Wann gehst du schlafen?
 Bist du schon fertig?
 Hast du schon die Zähne geputzt?
@@ -15,5 +16,6 @@ Wie lange dauert es noch?
 Schalte bitte Computer aus und geh schlafen.
 Hallo, guck die Uhr an.
 Mach bitte Pause.
-Was ist?
+Und?
 Also, was machen wir jetzt?
+Die Zeit...
