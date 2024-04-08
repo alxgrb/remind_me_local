@@ -61,7 +61,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>XQJ5ZVFyGHH/0Pk8DSV8J8QEpbiuEd/0kvKdxe5MOQg=</dsig:DigestValue>
+        <dsig:DigestValue>r/gnWs7y5kTbDh9IcxTWRa7olhHUXrUw8P3urOfQGaM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -71,7 +71,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>WF4I9WEBaStdaN6SmIFQYbxHgG1MUWCmYdxNexMUjxg=</dsig:DigestValue>
+      <dsig:DigestValue>90+/CnzYfJ5UdTMUafF4J38eeACZHWr8N8cvnWSDaRg=</dsig:DigestValue>
     </hash>
   </file>
   <file name="phrases.txt" size="569">
